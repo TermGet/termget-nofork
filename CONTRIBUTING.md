@@ -13,6 +13,12 @@ Everyone is allowed to contribute to TermGet for this please do the following st
 The same rule also applies to maintainers.
 Never directly push into master
 
+## Project managment
+### Contributor
+Everyone who contributes to this project is a contributor
+### Maintainers
+Maintainers are the people who have commit access, they decide which features come into the code
+
 ## Communication
 Development happens on Discord.
 [[Join now]](https://discord.gg/fCvMGcU)
